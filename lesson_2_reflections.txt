@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+You add a special meta folder to the homedirectory, otherwise you just have an ordinairy home folder
