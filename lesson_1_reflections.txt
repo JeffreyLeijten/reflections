@@ -1,0 +1,13 @@
+fc makes it easier to pinpoint the differences in files,
+since it shows only the differing lines.
+
+It creates back ups in case you make a mistake which undoes all your previous work
+
+When you choose when to commit yourself, you can pick the best moments to commit,
+though you risk forgetting to commit
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+
+Google docs's users rarely have files that are very related to eachother,
+While Git is used for programming where this is the case
