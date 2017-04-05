@@ -3,3 +3,7 @@ When working with other people or if you would want feedback on your project.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Sometimes you don't want to directly publish a branch because it's still a work in progress
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A clone is a local copy of a repository, a fork is a github repository cloned from another github repository
+a branch is a series of commits in a repository
