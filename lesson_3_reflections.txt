@@ -13,3 +13,7 @@ So you can reference where possible changes could have occurred
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Only having one person working at a time or having people working on different pieces of code.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Seperate branch, when you want to work on multiple changes at the same time or if you're working with more people.
+Directly in master, when the above is not the case, this way you don't have to merge.
